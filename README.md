@@ -45,7 +45,7 @@ api_key = "your_api_key_here"
 You can obtain an API key from [NumVerify](https://numverify.com/).
 
 ## Screenshots
-![App Screenshot](screenshot.png)
+![App Screenshot](number_detection.png)
 
 ## License
 This project is open-source and available under the MIT License.
