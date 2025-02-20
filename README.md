@@ -47,8 +47,6 @@ You can obtain an API key from [NumVerify](https://numverify.com/).
 ## Screenshots
 ![App Screenshot](number_detection.png)
 
-## License
-This project is open-source and available under the MIT License.
 
 ## Author
 Munjuluri V V D Surya Kishore Vinay
